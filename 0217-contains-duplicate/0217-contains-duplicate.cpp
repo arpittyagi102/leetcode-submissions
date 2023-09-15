@@ -4,11 +4,6 @@ public:
         /*
             using set and comparing set to orignal
         */
-        unordered_set<int> myset;
-
-        for(auto i : nums)
-            myset.insert(i);
-
-        return myset.size()!=nums.size();
+        return nums.size() > unordered_set<int>(nums.begin(),nums.end()).size();
     }
 };
