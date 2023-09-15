@@ -4,7 +4,7 @@ public:
         /*
             using set and comparing set to orignal
         */
-        set<int> myset;
+        unordered_set<int> myset;
 
         for(auto i : nums)
             myset.insert(i);
