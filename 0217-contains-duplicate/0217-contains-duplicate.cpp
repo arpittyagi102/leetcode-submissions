@@ -2,15 +2,13 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         /*
-            using sort and then check adjacent number
+            using set and comparing set to orignal
         */
-        sort(nums.begin(),nums.end());
-        int n = nums.size();
-        
-        for(int i=0; i<n-1; i++)
-            if(nums[i] == nums[i+1])
-                return true;
+        set<int> myset;
 
-        return false;
+        for(auto i : nums)
+            myset.insert(i);
+
+        return myset.size()!=nums.size();
     }
 };
