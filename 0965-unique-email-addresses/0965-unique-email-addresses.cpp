@@ -1,7 +1,6 @@
 class Solution {
 public:
     int numUniqueEmails(vector<string>& emails) {
-        int n = emails.size();
         set<string> myset;
 
         for(string i : emails){
@@ -15,7 +14,6 @@ public:
                 i.erase(i.find('+'));
             }
 
-            cout<<i+j<<" ";
             myset.insert(i+j);
         }
 
