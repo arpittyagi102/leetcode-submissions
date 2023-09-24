@@ -1,13 +1,15 @@
 class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
-        vector<int> prefixgreat(arr.size());
-        int maxhere = -1;
-        for(int i=arr.size()-1;i>=0;i--)
-        {
-            prefixgreat[i] = maxhere;
-            maxhere = max(maxhere,arr[i]);
+        int n = arr.size();
+        int maxnum = -1;
+        vector<int> res(n);
+
+        for(int i=n-1; i>=0; i--){
+            res[i] = maxnum;
+            maxnum = max(arr[i],maxnum);
         }
-        return prefixgreat;
+
+        return res;
     }
 };
