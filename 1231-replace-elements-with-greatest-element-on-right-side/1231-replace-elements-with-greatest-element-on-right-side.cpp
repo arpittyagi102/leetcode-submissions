@@ -9,10 +9,12 @@ public:
             if(arr[i] > max)
                 max = arr[i];
             cout<<max<<" ";
-            res.insert(res.begin(),max);
+            res.push_back(max);
         }
 
+        reverse(res.begin(),res.end());
         res.push_back(-1);
+
         return res;
     }
 };
