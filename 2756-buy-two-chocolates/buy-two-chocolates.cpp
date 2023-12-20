@@ -15,7 +15,6 @@ public:
         }
 
         int left = money - first - second;
-        cout<<first<<" "<<second;
         if(left >= 0){
             return left;
         }
