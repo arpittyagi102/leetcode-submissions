@@ -1,9 +1,21 @@
 class Solution {
 public:
     int buyChoco(vector<int>& prices, int money) {
-        sort(prices.begin(),prices.end());
-        int left = money - prices[0] - prices[1];
+        int first=INT_MAX;
+        int second = INT_MAX;
 
+        for(int i : prices){
+            if(i < first){
+                second = first;
+                first = i;
+            }
+            else if(i < second){
+                second = i;
+            }
+        }
+
+        int left = money - first - second;
+        cout<<first<<" "<<second;
         if(left >= 0){
             return left;
         }
