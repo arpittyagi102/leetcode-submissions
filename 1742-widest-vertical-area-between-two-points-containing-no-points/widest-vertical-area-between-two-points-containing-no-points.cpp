@@ -5,10 +5,6 @@ public:
             return A[0] < B[0]; 
         });
 
-        //for(auto point : points){
-        //    cout<<point[0]<<" ";
-        //}   cout<<endl;
-
         vector<int> diff(points.size()-1);
         int m = INT_MIN;
 
@@ -18,10 +14,6 @@ public:
                 m = diff[i];
             }
         }
-
-        //for(auto i : diff){
-        //    cout<<i<<" ";
-        //}   cout<<endl;
 
         return m;
     }
