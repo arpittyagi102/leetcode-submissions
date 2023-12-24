@@ -12,6 +12,6 @@ public:
             }
         }
 
-        return count < (s.size()-count) ? count : (s.size()-count); 
+        return min(count, (int) s.size()-count); 
     }
 };
