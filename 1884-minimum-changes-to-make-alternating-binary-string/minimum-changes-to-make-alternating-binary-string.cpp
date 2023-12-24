@@ -10,9 +10,6 @@ public:
             else if(i%2==1 && s[i]=='1') {
                 count++;
             }
-            else{
-                cout<<":F\n";
-            }
         }
 
         return count < (s.size()-count) ? count : (s.size()-count); 
