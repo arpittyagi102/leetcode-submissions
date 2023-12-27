@@ -7,7 +7,7 @@ public:
             if(nums[i]==val){
                 change++;
             }
-            else{
+            else if(change){
                 nums[i-change] = nums[i];
             }
         }
