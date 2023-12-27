@@ -4,12 +4,13 @@ public:
         int change = 0;
         
         for(int i=0; i<nums.size(); i++){
-            if(nums[i]==val)
+            if(nums[i]==val){
                 change++;
-            else if(change)
+            }
+            else if(change){
                 nums[i-change] = nums[i];
+            }
         }
-        
         return nums.size()-change;
     }
 };
