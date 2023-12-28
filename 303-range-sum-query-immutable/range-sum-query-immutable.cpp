@@ -10,9 +10,9 @@ public:
     }
     
     int sumRange(int left, int right) {
-        return left==0 ?
-                preSum[right] :
-                preSum[right]-preSum[left-1];
+        if(left==0)
+            return preSum[right];
+        return preSum[right]-preSum[left-1];
     }
 };
 
