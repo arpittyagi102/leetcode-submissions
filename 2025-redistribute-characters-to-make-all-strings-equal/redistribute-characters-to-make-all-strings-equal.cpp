@@ -10,9 +10,8 @@ public:
             }
         }
 
-        auto it = mp.begin();
         for(auto m: mp){
-            if(m.second%n != 0)
+            if(m.second%n)
                 return false;
         }
 
