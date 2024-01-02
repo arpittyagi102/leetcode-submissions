@@ -8,15 +8,11 @@ public:
             for(int i: nums){
                 if(!st.insert(i).second)
                     temp.push_back(i);
-                else{
-                    cout<<i<<" ";
-                }
             }
 
             ans.push_back(vector<int>(st.begin(),st.end()));
             nums = temp;
             st.clear();
-            cout<<"\n size = "<<nums.size()<<endl;
         }
 
         return ans;
