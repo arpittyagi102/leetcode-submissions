@@ -7,11 +7,10 @@ public:
 
         for(vector<int> rect: rectangles){
             ratio = (double)rect[0]/rect[1];
+            if(mp.find(ratio)!=mp.end()){
+                ans += mp[ratio];
+            }
             mp[ratio]++;
-        }
-
-        for(auto m: mp){
-            ans += (m.second*(m.second-1))/2;
         }
 
         return ans;
