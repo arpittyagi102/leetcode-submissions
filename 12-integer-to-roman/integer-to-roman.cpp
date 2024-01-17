@@ -10,7 +10,7 @@ public:
             ans += "CM";
             num -= 900;
         }
-        if(num >= 500){
+        else if(num >= 500){
             ans += "D";
             num -= 500;
         }
@@ -26,7 +26,7 @@ public:
             ans += "XC";
             num -= 90;
         }
-        if(num >= 50){
+        else if(num >= 50){
             ans += "L";
             num -= 50;
         }
@@ -42,7 +42,7 @@ public:
             ans += "IX";
             num -= 9;
         }
-        if(num >= 5){
+        else if(num >= 5){
             ans += "V";
             num -= 5;
         }
