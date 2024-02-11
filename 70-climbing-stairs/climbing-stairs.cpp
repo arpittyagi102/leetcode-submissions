@@ -1,6 +1,7 @@
 class Solution {
+public:
     int helper(int n, vector<int>& dp){
-        if(n < 3){
+        if(n < 4){
             return n;
         }
 
@@ -8,14 +9,12 @@ class Solution {
             return dp[n];
         }
 
-        dp[n] = helper(n-1, dp) + helper(n-2, dp);
-
-        return dp[n];
+        return dp[n] = helper(n-1, dp)+helper(n-2, dp);
     }
-public:
+
     int climbStairs(int n) {
         vector<int> dp(n+1,-1);
 
-        return helper(n, dp);
+        return helper(n,dp);
     }
 };
