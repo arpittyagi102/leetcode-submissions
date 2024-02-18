@@ -8,22 +8,18 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(!head)
-            return nullptr;
+        if(head == NULL || head->next == NULL) 
+            return head;
 
-        ListNode* temp = head;
-        ListNode* rev = new ListNode(head->val);
+        ListNode* h2 = reverseList(head->next);
 
-        while(temp->next){
-            temp=temp->next;
-            cout<<temp->val<<" ";
-            ListNode* t = new ListNode(temp->val,rev);
-            rev = t;
-        }
-
-        return rev;
+        head->next->next = head;
+        head->next=NULL;
+        return h2;
     }
+
 };
