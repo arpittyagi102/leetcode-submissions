@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1044-find-common-characters) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1044-find-common-characters) |
@@ -49,3 +51,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0523-continuous-subarray-sum) |
