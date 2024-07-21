@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -146,4 +147,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
