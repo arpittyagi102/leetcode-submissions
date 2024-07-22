@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1720-crawler-log-folder) |
+| [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 ## Stack
 |  |
 | ------- |
@@ -156,4 +159,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
+## Hash Table
+|  |
+| ------- |
+| [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 <!---LeetCode Topics End-->
