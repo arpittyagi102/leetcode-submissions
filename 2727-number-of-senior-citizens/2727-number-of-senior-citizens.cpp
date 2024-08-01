@@ -5,7 +5,6 @@ public:
 
         for(string detail: details){
             if(detail[11] > '6' || (detail[11] == '6' && detail[12] != '0')){
-                cout<<detail<<" ";
                 ans++;
             }
         }
