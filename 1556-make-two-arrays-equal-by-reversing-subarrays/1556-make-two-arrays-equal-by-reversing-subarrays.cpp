@@ -1,11 +1,22 @@
 class Solution {
 public:
     bool canBeEqual(vector<int>& target, vector<int>& arr) {
-        sort(arr.begin(), arr.end());
-        sort(target.begin(), target.end());
+        unordered_map<int,int> arrMap;
+        unordered_map<int,int> targetMap;
 
-        for(int i=0; i<arr.size(); i++){
-            if(arr[i]!=target[i]){
+        for(int i: arr){
+            arrMap[i]++;
+        }
+        for(int t: target){
+            targetMap[t]++;
+        }
+
+        if(arrMap.size() != targetMap.size()){
+            return false;
+        }
+
+        for(const auto& pair: arrMap){
+            if(pair.second != targetMap[pair.first]){
                 return false;
             }
         }
