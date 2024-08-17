@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -220,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
