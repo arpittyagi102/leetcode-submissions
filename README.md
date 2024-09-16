@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0890-lemonade-change](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1325-path-with-maximum-probability](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1325-path-with-maximum-probability) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0564-find-the-closest-palindrome) |
 | [1642-water-bottles](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -161,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0564-find-the-closest-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1720-crawler-log-folder) |
