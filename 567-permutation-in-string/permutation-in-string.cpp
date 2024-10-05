@@ -1,36 +1,45 @@
 class Solution {
-    bool areEqual(unordered_map<char,int> mp1, unordered_map<char,int> mp2){  
-        for (const auto& pair : mp1) {
-            auto it = mp2.find(pair.first); 
-            if (it == mp2.end() || it->second != pair.second) 
-                return false;
+
+    void printMp(unordered_map<char,int> mp){
+        for(auto const& [k,v]: mp){
+            cout<<k<<" : "<<v<<endl;
+        }
+        cout<<endl;
+    }
+
+    bool helper(string s, unordered_map<char,int> mp){
+//        cout<<"The string is "<<s<<endl;
+//        printMp(mp);
+        for(char c: s){
+            mp[c]--;
+            if(mp[c]==0){
+                mp.erase(c);
+            }
+//            printMp(mp);
         }
 
-        return true;
+        return mp.size()==0;
     }
 public:
     bool checkInclusion(string s1, string s2) {
-        unordered_map<char, int> mp1;
-        unordered_map<char, int> mp2;
-
         if(s1.size() > s2.size()){
             return false;
         }
 
-        for(int i=0; i<s1.size(); i++){
-            mp1[s1[i]]++;
+        unordered_map<char, int> main;
+
+        for(char c: s1){
+            main[c]++;
         }
 
-        for(int i=0; i<s1.size(); i++){
-            mp2[s2[i]]++;
-        }
-
-        for(int i=0; i<s2.size()-s1.size()+1; i++){
-            if(areEqual(mp1, mp2)){
-                return true;
+        for(int i=0; i<s2.size() - s1.size() + 1; i++){
+            if(main[s2[i]] > 0){
+                if(helper(s2.substr(i,s1.size()), main)){
+                    return true;
+                }
+            } else {
+                main.erase(s2[i]);
             }
-            mp2[s2[i]]--;
-            mp2[s2[i+s1.size()]]++;
         }
 
         return false;
