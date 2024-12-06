@@ -7,12 +7,10 @@ public:
 
         for(int i=1; i<=n; i++){
             if(ban.find(i) == ban.end() && sum + i <= maxSum){
-                cout<<i<<" ";
                 count++;
                 sum += i;
             }
         }
-        cout<<"\nsum = "<<sum;
 
         return count;
     }
