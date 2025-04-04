@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -276,12 +277,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
@@ -314,11 +317,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1484-linked-list-in-binary-tree) |
 ## Shortest Path
 |  |
