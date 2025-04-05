@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0564-find-the-closest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0564-find-the-closest-palindrome) |
 | [1642-water-bottles](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2645-pass-the-pillow](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -365,4 +368,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
