@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0729-my-calendar-i) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
