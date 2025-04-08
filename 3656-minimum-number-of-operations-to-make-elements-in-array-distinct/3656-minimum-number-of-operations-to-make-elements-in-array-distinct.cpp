@@ -6,7 +6,6 @@ public:
 
         // checking for last few(0,1,2) numbers
         for(int i=nums.size()-1; i>=(int)(nums.size()-rem); i--){
-            cout<<nums[i]<<" ";
             if(st.find(nums[i]) != st.end()){
                 return nums.size()/3 + 1;
             }
