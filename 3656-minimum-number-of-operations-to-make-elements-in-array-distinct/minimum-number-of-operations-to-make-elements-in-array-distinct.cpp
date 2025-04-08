@@ -1,25 +1,15 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        unordered_set<int> st;
-        int rem = nums.size() % 3;
+        vector<bool> seen(100);
 
-        // checking for last few(0,1,2) numbers
-        for(int i=nums.size()-1; i>=(int)(nums.size()-rem); i--){
-            if(st.find(nums[i]) != st.end()){
-                return nums.size()/3 + 1;
+        for (int i = nums.size() - 1; i >= 0; i--) {
+            if (seen[nums[i]]) {
+                return i / 3 + 1;
             }
-            st.insert(nums[i]);
-        }  
-
-        // checking for remaining numbers (multiple of 3)
-        for(int i=nums.size()-1-rem; i>=0; i--){
-            if(st.find(nums[i]) != st.end()){
-                return ceil((double)(i+1)/3);
-            }
-            st.insert(nums[i]);
-        }         
-
+            seen[nums[i]] = true;
+        }
+        
         return 0;
     }
 };
