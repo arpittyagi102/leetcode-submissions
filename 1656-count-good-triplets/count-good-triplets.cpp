@@ -1,23 +1,31 @@
 class Solution {
 public:
     int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
-        int count = 0;
-        
-        for(int i=0; i<arr.size(); i++){
-            for(int j=i+1; j<arr.size(); j++){
-                for(int k=j+1; k<arr.size(); k++){
-                    int x = abs(arr[i] - arr[j]);
-                    int y = abs(arr[k] - arr[j]);
-                    int z = abs(arr[i] - arr[k]);
+        int ans = 0, n = arr.size();
+        vector<int> sum(1001, 0);
 
-                    if(x<=a && y<=b && z<=c){
-                        //cout<<arr[i]<<" "<<arr[j]<<" "<<arr[k]<<endl;
-                        count++;
+        for (int j = 0; j < n; ++j) {
+            for (int k = j + 1; k < n; ++k) {
+                if (abs(arr[j] - arr[k]) <= b) {
+                    int lj = arr[j] - a, rj = arr[j] + a;
+                    int lk = arr[k] - c, rk = arr[k] + c;
+
+                    int l = max(0, max(lj, lk)), r = min(1000, min(rj, rk));
+
+                    if (l <= r) {
+                        if (l == 0) {
+                            ans += sum[r];
+                        } else {
+                            ans += sum[r] - sum[l - 1];
+                        }
                     }
                 }
             }
+            
+            for (int k = arr[j]; k <= 1000; ++k) {
+                ++sum[k];
+            }
         }
-
-        return count;
+        return ans;
     }
 };
