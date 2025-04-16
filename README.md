@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
