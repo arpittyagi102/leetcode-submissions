@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0038-count-and-say) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0564-find-the-closest-palindrome) |
