@@ -19,12 +19,12 @@ class Solution {
     }
 public:
     string countAndSay(int n) {
-        if(n == 1){
-            return "1";
+        string str = "1";
+
+        for(int i=2; i<=n; i++){
+            str = rle(str);
         }
 
-        string str = countAndSay(n-1);
-
-        return rle(str);
+        return str;
     }
 };
