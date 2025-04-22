@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2050-count-good-numbers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2645-pass-the-pillow](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2645-pass-the-pillow) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -403,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
