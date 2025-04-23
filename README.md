@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0564-find-the-closest-palindrome) |
+| [1500-count-largest-group](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
