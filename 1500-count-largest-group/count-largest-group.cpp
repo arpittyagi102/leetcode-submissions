@@ -11,17 +11,17 @@ class Solution {
     }
 public:
     int countLargestGroup(int n) {
-        unordered_map<int, int> mp;
-        int mx = 0;
-        int count = 0;
-
+        vector<int> map(99,0);
+        int maxValue = 0;
+        
         for(int i=1; i<=n; i++){
-            mp[sumOfDigits(i)]++;
-            mx = max(mx, mp[sumOfDigits(i)]);
+            map[sumOfDigits(i)]++;
+            maxValue = max(maxValue, map[sumOfDigits(i)]);
         }
 
-        for(auto pair: mp){
-            if(pair.second == mx){
+        int count = 0;
+        for(int value: map){
+            if(value == maxValue){
                 count++;
             }
         }
