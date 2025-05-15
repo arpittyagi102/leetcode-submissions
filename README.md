@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2727-number-of-senior-citizens](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2727-number-of-senior-citizens) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Stack
 |  |
 | ------- |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
