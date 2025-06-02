@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0217-contains-duplicate) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0729-my-calendar-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
