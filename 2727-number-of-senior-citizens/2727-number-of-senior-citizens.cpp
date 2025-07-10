@@ -1,14 +1,16 @@
 class Solution {
 public:
     int countSeniors(vector<string>& details) {
-        int ans = 0;
+        int seniors = 0;
 
-        for(string detail: details){
-            if(detail[11] > '6' || (detail[11] == '6' && detail[12] != '0')){
-                ans++;
+        for( string detail : details ){
+            int age = stoi( detail.substr(11,2) );
+
+            if(age > 60){
+                seniors++;
             }
         }
 
-        return ans;
+        return seniors;
     }
 };
