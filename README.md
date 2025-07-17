@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
