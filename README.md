@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0724-find-pivot-index](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0724-find-pivot-index](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Backtracking
