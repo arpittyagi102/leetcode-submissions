@@ -1,19 +1,19 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        vector<int> vec;
+        unordered_map<char, int> freq;
+        int balloons = INT_MAX;
 
-        vec.push_back(count(text.begin(),text.end(),'b'));
-        vec.push_back(count(text.begin(),text.end(),'a'));
-        vec.push_back(count(text.begin(),text.end(),'l')/2);
-        vec.push_back(count(text.begin(),text.end(),'o')/2);
-        vec.push_back(count(text.begin(),text.end(),'n'));
+        for(char c: text){
+            freq[c]++;
+        }
 
-        int min = vec.front();
-        for(int i : vec)
-            if(min > i)
-                min = i;      
+        balloons = min(balloons, freq['b']);
+        balloons = min(balloons, freq['a']);
+        balloons = min(balloons, freq['l']/2);
+        balloons = min(balloons, freq['o']/2);
+        balloons = min(balloons, freq['n']);
 
-        return min;
+        return balloons;
     }
 };
