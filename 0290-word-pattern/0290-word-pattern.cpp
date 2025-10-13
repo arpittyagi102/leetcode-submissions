@@ -1,32 +1,40 @@
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
-        vector<string> vec;
-        stringstream ss(s);
-        string word;
-        unordered_map<char, string> mp;
-        unordered_map<string, char> mp2;
+        vector<string> words = split(s);
+        unordered_map<string, char> patternMap;
+        unordered_map<char, string> wordMap;
 
-        while (getline(ss, word, ' ')) {
-            vec.push_back(word);
-        }
-
-        if(pattern.size() != vec.size()){
+        if(words.size() != pattern.size())
             return false;
-        }
 
-        for(int i=0; i<pattern.size(); i++){
-            if(mp.count(pattern[i]) || mp2.count(vec[i])){
-                if (mp[pattern[i]]!=vec[i] || mp2[vec[i]]!=pattern[i]){
+        for(int i=0; i<words.size(); i++){
+            if(patternMap[words[i]]){
+                if(patternMap[words[i]] != pattern[i]){
                     return false;
                 }
-            }
-            else {
-                mp[pattern[i]] = vec[i];
-                mp2[vec[i]] = pattern[i];
+            } else {
+                if(wordMap.count(pattern[i])){
+                    return false;
+                }
+
+                patternMap[words[i]] = pattern[i];
+                wordMap[pattern[i]] = words[i];
             }
         }
 
         return true;
+    }
+
+    vector<string> split(string s){
+        istringstream stream(s);
+        string word;
+        vector<string> words;
+
+        while (stream >> word) {
+            words.push_back(word);
+        }
+
+        return words;
     }
 };
