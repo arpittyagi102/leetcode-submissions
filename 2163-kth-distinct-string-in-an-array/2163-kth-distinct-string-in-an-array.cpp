@@ -1,19 +1,18 @@
 class Solution {
 public:
     string kthDistinct(vector<string>& arr, int k) {
-        unordered_map<string,int> mp;
+        unordered_map<string, int> myMap;
 
         for(string str: arr){
-            mp[str]++;
+            myMap[str]++;
         }
 
         for(string str: arr){
-            if(mp[str] == 1){
-                if(k != 1){
-                    k--;
-                } else {
-                    return str;
-                }
+            if(myMap[str] == 1){
+                k--;
+            }
+            if(k == 0){
+                return str;
             }
         }
 
