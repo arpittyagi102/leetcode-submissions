@@ -1,13 +1,17 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        unordered_set<int> appearedNumbers(nums.begin(), nums.end());
-        vector<int> dissappearedNumbers;
+        vector<int> disappearedNumbers;
 
-        for(int i=1; i<=nums.size(); i++)
-            if(appearedNumbers.find(i) == appearedNumbers.end())
-                dissappearedNumbers.push_back(i);
+        for(int i=0; i<nums.size(); i++){
+            int index = abs(nums[i])-1;
+            nums[index] = -abs(nums[index]);
+        }
+
+        for(int i=0; i<nums.size(); i++)
+            if(nums[i] > 0)
+                disappearedNumbers.push_back(i+1);
         
-        return dissappearedNumbers;
+        return disappearedNumbers;
     }
 };
