@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0724-find-pivot-index) |
