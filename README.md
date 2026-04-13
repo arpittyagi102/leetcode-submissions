@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
