@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2689-rearranging-fruits](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2689-rearranging-fruits) |
