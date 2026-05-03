@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0868-push-dominoes) |
 | [1297-maximum-number-of-balloons](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -547,4 +548,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0816-design-hashset) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
