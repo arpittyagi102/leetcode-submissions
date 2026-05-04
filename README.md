@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
