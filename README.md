@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2553-separate-the-digits-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2689-rearranging-fruits](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2689-rearranging-fruits) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2553-separate-the-digits-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
