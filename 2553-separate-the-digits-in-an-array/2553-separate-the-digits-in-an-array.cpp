@@ -9,18 +9,19 @@ class Solution {
             ans.push_back(rem);
         }
 
-        reverse(ans.begin(), ans.end());
+        // reverse(ans.begin(), ans.end());
         return ans;
     }
 public:
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> ans;
 
-        for(int num : nums) {
-            vector<int> digits = getDigits(num);
+        for(int i=nums.size()-1; i>=0; i--) {
+            vector<int> digits = getDigits(nums[i]);
             ans.insert(ans.end(), digits.begin(), digits.end());
         }
 
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
