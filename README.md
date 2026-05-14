@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2048-build-array-from-permutation) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1642-water-bottles](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
+| [1929-concatenation-of-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
