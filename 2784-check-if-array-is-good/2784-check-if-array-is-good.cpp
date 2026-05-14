@@ -4,17 +4,25 @@ public:
         unordered_map<int, int> mp;
 
         for(int num: nums) {
-            mp[num]++;
-        }
-
-        for(auto [k,v]: mp) {
-            if(k < 1 || k >= nums.size()) {
+            // If the number is out of bounds
+            if(num < 1 || num >= nums.size()) {
                 return false;
-            } else if(k == nums.size()-1) {
-                if(v!=2) return false;
-            } else {
-                if(v!=1) return false;
             }
+
+            // If the number already exists in map
+            if(mp[num]){
+                // if the number is last one
+                if(num == nums.size()-1){
+                    if(mp[num] > 1)
+                        return false;
+                // if its not the last one
+                } else {
+                    return false;
+                }
+            } 
+            
+            // if it doesn't exist or (is last number and exists only once), add it to map
+            mp[num]++;
         }
 
         return true;
