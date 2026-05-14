@@ -1,28 +1,29 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
-        unordered_map<int, int> mp;
+        unordered_set<int> st;
+        bool isLastNum = false;
 
         for(int num: nums) {
-            // If the number is out of bounds
-            if(num < 1 || num >= nums.size()) {
+            if(num < 1 || num >= nums.size()){
                 return false;
             }
 
-            // If the number already exists in map
-            if(mp[num]){
-                // if the number is last one
-                if(num == nums.size()-1){
-                    if(mp[num] > 1)
+            if(num == nums.size() - 1){
+                if(st.contains(num)) {
+                    if(isLastNum) {
                         return false;
-                // if its not the last one
-                } else {
+                    } else {
+                        isLastNum = true;
+                    }
+                }
+            } else {
+                if(st.contains(num)) {
                     return false;
                 }
-            } 
-            
-            // if it doesn't exist or (is last number and exists only once), add it to map
-            mp[num]++;
+            }
+
+            st.insert(num);
         }
 
         return true;
