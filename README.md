@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
