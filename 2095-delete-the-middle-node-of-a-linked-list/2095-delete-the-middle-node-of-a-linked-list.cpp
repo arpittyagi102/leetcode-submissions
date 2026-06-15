@@ -9,35 +9,19 @@
  * };
  */
 class Solution {
-    int len(ListNode* head) {
-        int count = 0;
-
-        while(head) {
-            head = head->next;
-            count++;
-        }
-
-        return count;
-    }
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        int index = len(head)/2 - 1;
-        
-        if(index < 0)
-            return nullptr;
+        if (!head->next) return nullptr;
 
-        ListNode* temp = head;
+        ListNode* slow = head;
+        ListNode* fast = slow->next->next;
 
-        while(index) {
-            temp = temp->next;
-            index--;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        if(temp->next->next)
-            temp->next = temp->next->next;
-        else
-            temp->next = nullptr;
-
+        slow->next = slow->next->next;
         return head;
     }
 };
