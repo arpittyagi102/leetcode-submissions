@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3194-find-words-containing-character) |
+| [3612-process-string-with-special-operations-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
