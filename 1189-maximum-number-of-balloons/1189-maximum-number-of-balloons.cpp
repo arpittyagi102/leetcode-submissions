@@ -4,8 +4,8 @@ public:
         vector<int> freq(26, 0);
         int balloons = text.size();
 
-        for(int i=0; i<text.size(); i++)
-            freq[text[i]-'a']++;
+        for(char c: text)
+            freq[c-'a']++;
 
         return min({
             freq['b'-'a'],
