@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0241-different-ways-to-add-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0368-largest-divisible-subset) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
