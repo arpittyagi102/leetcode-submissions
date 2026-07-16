@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -430,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2540-minimum-common-value](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -596,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Queue
 |  |
 | ------- |
