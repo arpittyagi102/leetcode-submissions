@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0636-exclusive-time-of-functions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0729-my-calendar-i) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
