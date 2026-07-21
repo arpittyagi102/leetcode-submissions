@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3194-find-words-containing-character) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Stack
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
 ## Number Theory
 |  |
