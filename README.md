@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
@@ -639,4 +641,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
