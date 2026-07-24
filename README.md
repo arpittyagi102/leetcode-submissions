@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0729-my-calendar-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [0816-design-hashset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0816-design-hashset) |
