@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1656-count-good-triplets) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1642-water-bottles) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1803-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String
@@ -351,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-crawler-log-folder](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [2846-robot-collisions](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2846-robot-collisions) |
 ## Matrix
