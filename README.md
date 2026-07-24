@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2048-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## String
 |  |
