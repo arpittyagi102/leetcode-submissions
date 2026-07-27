@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1333-sort-the-jumbled-numbers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1325-path-with-maximum-probability](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1325-path-with-maximum-probability) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
