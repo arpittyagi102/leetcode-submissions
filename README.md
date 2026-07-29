@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0816-design-hashset) |
 | [0890-lemonade-change](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0890-lemonade-change) |
 | [0999-regions-cut-by-slashes](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0999-regions-cut-by-slashes) |
+| [1046-last-stone-weight](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1325-path-with-maximum-probability) |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-last-stone-weight](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1325-path-with-maximum-probability) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
