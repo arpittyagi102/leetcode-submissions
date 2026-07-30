@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2689-rearranging-fruits](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3689-maximum-total-subarray-value-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3227-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3548-find-the-count-of-good-integers](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3548-find-the-count-of-good-integers) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
