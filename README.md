@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2073-time-needed-to-buy-tickets](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/arpittyagi102/leetcode-submissions/tree/master/0729-my-calendar-i) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/arpittyagi102/leetcode-submissions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2164-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2540-minimum-common-value](https://github.com/arpittyagi102/leetcode-submissions/tree/master/2540-minimum-common-value) |
